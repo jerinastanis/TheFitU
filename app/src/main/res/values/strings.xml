@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">TheFITu</string>
+    <string name="pose1">    Step 1:- Start in the push-up position with your arms completely straight and directly beneath your shoulders.\n\n
+                             Step 2:- Your body should form a straight line from your shoulders to your ankles. \n\n
+                             Step 3:- Squeeze your abs, lift one foot off the floor and bring your knee up towards your chest while keeping your body in as straight of a line as possible. \n\n
+                             Step 4:- Return to the starting position and repeat the movement with your opposite leg.. </string>
+    <string name="pose2">    Step 1:- Lie flat on your mat with knees bent and feet on the mat. Hands at the base of your head and elbows pointed out. Bring your head and shoulders off the mat and come up into a crunch, then lower with control. </string>
+    <string name="pose3">    Step 1:- This movement is performed with a bench and a foot stool.\n\n
+                             Step 2:- Place a bench behind yourself and rest on it with your hands. Place your legs straight out in front of you. You may also place them at an elevated level as shown above.\n\n
+                             Step 3:- Begin with arms in a fully. Slowly bend at your elbows keeping the rest of your body straight. Be sure to keep your elbows back and close together.\n\n
+                             Step 4:- Dip down until your arms form a 90 degree angle and you feel a stretch in the triceps.\n\n
+                             Step 5:- Slowly extend your arms raising your body back up. Pause and contract your triceps muscles at the top. Pause and repeat the movement.</string>
+    <string name="pose4">    Step 1:- Lie flat on the floor with your lower back pressed to the ground (pull your navel in to also target your deep abs). \n\n
+                             Step 2:- Put your hands behind your head, then bring your knees in towards your Chest and lift your shoulder blades off the ground, but be sure not to pull on your neck.\n\n
+                             Step 3:-Straighten your right leg out to about a 4S-degree angle to the ground while turning your upper body to the left, bringing your right elbow towards the left knee.\n\n
+                             Step 4:- Make sure your rib cage is moving and not just your elbows. Now switch sides and do the same motion on the other side to complete one rep. </string>
+    <string name="pose5">   Step 1:- Lay down with your hands to your sides for support. \n\n
+                             Step 2:- Raise your legs so they are off the ground, keeping the abdominal tight.\n\n
+                             Step 3:- Slowly raise your legs 90 degrees, contracting the abdominal muscles. Slowly return to starting position. Do not touch the floor with your feet.\n\n
+                            </string>
+
+
+    <string name="pose6">    Step 1:- Lie on your back on an exercise mat. With your arms straight at your sides, bend your knees and place your feet flat on the floor between18 and 24 inches apart.\n\n
+                             Step 2:- Breathing out, crunch your ab slightly upward and sideways to the right a couple of inches until your right hand touches your right heel.\n\n
+                             Step 3:- Hold brief|y and then return to your starting position while inhaling. Repeat on the left side. </string>
+    <string name="pose7">    Step 1:- You can perform straight-leg crunches by lying face up on the floor with your legs straight and then moving your upper body as you would for a standard bent-knee crunch.\n\n
+                             Step 2:- Alternatively, lie on your back, raise your legs so they are perpendicular to the floor and then perform the standard crunching motion with your torso.
+                             </string>
+    <string name="pose8">    Step 1:- Lie down on the floor placing your feet either under something that Will not move or by having a partner hold them. Your legs should be bent at the kneesPlace your hands behind your head and lock them together by clasping your fingers. This is the starting position.\n\n
+                             Step 2:- Elevate your upper body so that it creates an imaginary V-shape with your thighs. Breathe out when performing this part of the exercise.\n\n
+                             Step 3:- Once you feel the contraction for a second, lower your upper body back down to the starting position while inhaling. \n\n
+                             Step 4:- Repeat for the recommended amount of repetitions.
+                            </string>
+    <string name="pose9">    Step 1:- Lying on the back,lift straight leg,extend opposite hand to touch toe. \n\n
+                             Step 2:- Please,return,alternate inhale down,exhale up at toe touch.
+                            </string>
+    <string name="pose10">    Step 1:- High Plank position then slowly rotate your torso to the side raising your arm till it gets inline with the other one. \n\n
+                             Step 2:- Then return to the initial position.
+                            </string>
+    <string name="pose11">    Step 1:- Lie on the floor with elbows directly beneath your shoulders and legs fully extended.\n\n
+                             Step 2:- Raise your torso into the air until it makes a straight line from your shoulders to your ankles. Tighten your stomach, squeeze your butt.
+                            </string>
+    <string name="pose12">    Step 1:- Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees. Elevate your upper body so that it creates an imaginary V-shape with your thighs. \n\n
+                             Step 2:- Your arms should be fully extended in front of you perpendicular to your torso and with the hands clasped. This is the starting position.\n\n
+                             Step 3:- This is the starting position. Twist your torso to the right side until your arms are parallel with the floor while breathing out. \n\n
+                             Step 4:- Hold the contraction for a second and move back to the starting position while breathing out. Now move to the opposite side performing the same techniques you applied to the right side. Repeat for the recommended amount of repetitions.
+                            </string>
+    <string name="pose13">    Step 1:- Lie on your back with your knees bent, feet flat and hip width. \n\n
+                             Step 2:- Lower your pelvis 2 inches from the floor. Squeeze your gut and lift your pelvis back to bridge position.
+
+                            </string>
+    <string name="pose14">    Step 1:- Lie facing the floor with your arms extended in front of you and your leg extended behind you. \n\n
+                             Step 2:- In one movement,engage your gut and lower back to raise your arms,legs,and chest off the floor.\n\n
+                             Step 3:- Hold for a count,then slowly return to the starting position.
+                            </string>
+    <string name="pose15">   Step 1:- Stand, extend arms 90° to sides, bend forward 90° at waist.\n\n
+                             Step 2:- Looking at the floor, rotate torso to touch hand to foot, rotate for other hand. \n\n
+                             Step 3:- Head will follow chest action. </string>
+
+
+    <string-array name="title_story">
+        <item>Limit sugary drinks</item>
+        <item>Eat nuts and seeds</item>
+        <item>Avoid ultra-processed foods</item>
+        <item>Don’t fear coffee</item>
+        <item>Eat fatty fish</item>
+        <item>Get enough sleep</item>
+        <item>Feed your gut bacteria</item>
+        <item>Stay hydrated</item>
+        <item>Don’t eat heavily charred meats</item>
+        <item>Avoid bright lights before sleep</item>
+        <item>Take vitamin D if you’re deficient</item>
+        <item>Eat plenty of fruits and vegetables</item>
+        <item>Eat adequate protein</item>
+        <item>Get moving</item>
+        <item> Don’t smoke or use drugs, and only drink in moderation</item>
+    </string-array>
+    <string-array name="details">
+        <item>Sugary drinks like sodas, fruit juices, and sweetened teas are the primary source of added sugar in the American diet.Unfortunate,findings from several studies point to sugar-sweetened beverages increasing risk of heart disease and type 2 diabetes, even in people who are not carrying excess body fat.
+Sugar-sweetened beverages are also uniquely harmful for children, as they can contribute not only to obesity in children but also to conditions that usually do not develop until adulthood, like type 2 diabetes, high blood pressure, and non-alcoholic fatty liver disease.Healthier alternatives include:
+water
+unsweetened teas
+sparkling water
+coffee</item>
+        <item>Some people avoid nuts because they are high in fat. However, nuts and seeds are incredibly nutritious. They are packed with protein, fiber, and a variety of vitamins and minerals.Nuts may help you lose weight and reduce the risk of developing type 2 diabetes and heart disease.Additionally, one large observational study noted that a low intake of nuts and seeds was potentially linked to an increased risk of death from heart disease, stroke, or type 2 diabetes </item>
+        <item>Ultra-processed foods are foods containing ingredients that are significantly modified from their original form. They often contain additives like added sugar, highly refined oil, salt, preservatives, artificial sweeteners, colors, and flavors as well.Examples include:
+snack cakes
+fast food
+frozen meals
+canned foods
+chips
+            Ultra-processed foods are highly palatable, meaning they are easily overeaten, and activate reward-related regions in the brain, which can lead to excess calorie consumption and weight gain. Studies show that diets high in ultra-processed food can contribute to obesity, type 2 diabetes, heart disease, and other chronic conditions .In addition to low quality ingredients like inflammatory fats, added sugar, and refined grains, they’re usually low in fiber, protein, and micronutrients. Thus, they provide mostly empty calories.</item>
+        <item>Despite some controversy over it, coffee is loaded with health benefits.It’s rich in antioxidants, and some studies have linked coffee intake to longevity and a reduced risk of type 2 diabetes, Parkinson’s and Alzheimer’s diseases, and numerous other illnesses .The most beneficial intake amount appears to be 3–4 cups per day, although pregnant people should limit or avoid it completely because it has been linked to low birth weight.
+However, it’s best to consume coffee and any caffeine-based items in moderation. Excessive caffeine intake may lead to health issues like insomnia and heart palpitations. To enjoy coffee in a safe and healthy way, keep your intake to less than 4 cups per day and avoid high-calorie, high-sugar additives like sweetened creamer.</item>
+        <item>Fish is a great source of high-quality protein and healthy fat. This is particularly true of fatty fish, such as salmon, which is loaded with anti-inflammatory omega-3 fatty acids and various other nutrients.Studies show that people who eat fish regularly have a lower risk for several conditions, including heart disease, dementia, and inflammatory bowel disease .</item>
+        <item>The importance of getting enough quality sleep cannot be overstated.Poor sleep can drive insulin resistance, can disrupt your appetite hormones, and reduce your physical and mental performance .
+</item>
+        <item>The bacteria in your gut, collectively called the gut microbiota, are incredibly important for overall health.A disruption in gut bacteria is linked to some chronic diseases, including obesity and a myriad of digestive problems.Good ways to improve gut health include eating probiotic foods like yogurt and sauerkraut, taking probiotic supplements — when indicated — and eating plenty of fiber. Notably, fiber serves as a pre-biotic, or a food source for your gut bacteria.</item>
+        <item>Hydration is an important and often overlooked marker of health. Staying hydrated helps ensure that your body is functioning optimally and that your blood volume is sufficient.Drinking water is the best way to stay hydrated, as it’s free of calories, sugar, and additives.Although there’s no set amount that everyone needs per day, aim to drink enough so that your thirst is adequately quenched .</item>
+        <item>Meat can be a nutritious and healthy part of your diet. It’s very high in protein and a rich source of nutrients.However, problems occur when meat is charred or burnt. This charring can lead to the formation of harmful compounds that may increase your risk for certain cancers.When you cook meat, try not to char or burn it. Additionally limit your consumption of red and processed meats like lunch meats and bacon as these are linked to overall cancer risk and colon cancer risk .</item>
+        <item>When you’re exposed to bright lights — which contain blue light wavelengths — in the evening, it may disrupt your production of the sleep hormone melatonin.Some ways to help reduce your blue light exposure is to wear blue light blocking glasses — especially if you use a computer or other digital screen for long periods of time — and to avoid digital screens for 30 minutes to an hour before going to bed.This can help your body better produce melatonin naturally as evening progresses, helping you sleep better.
+</item>
+        <item>Most people do not get enough vitamin D. While these widespread vitamin D inadequacies are not imminently harmful, maintaining adequate vitamin D levels can help to optimize your health by improving bone strength, reducing symptoms of depression, strengthening your immune system, and lowering your risk for cancer .If you do not spend a lot of time in the sunlight, your vitamin D levels may be low.If you have access, it’s a great idea to have your levels tested, so that you can correct your levels through vitamin D supplementation if necessary.
+</item>
+        <item>Vegetables and fruits are loaded with pre-biotic fiber, vitamins, minerals, and antioxidants, many of which have potent health effects.Studies show that people who eat more vegetables and fruits tend to live longer and have a lower risk for heart disease, obesity, and other illnesses.
+</item>
+        <item>Eating enough protein is vital for optimal health, as it provides the raw materials your body needs to create new cells and tissues.What’s more, this nutrient is particularly important for maintenance of a moderate body weight.High protein intake may boost your metabolic rate — or calorie burn — while making you feel full. It may also reduce cravings and your desire to snack late at night.
+</item>
+        <item>Doing aerobic exercise, or cardio, is one of the best things you can do for your mental and physical health.It’s particularly effective at reducing belly fat, the harmful type of fat that builds up around your organs. Reduced belly fat may lead to major improvements in your metabolic health.According to the Physical Activity Guidelines for Americans, we should strive for at least 150 minutes of moderate intensity activity each week.
+</item>
+        <item> Smoking, harmful use of drugs, and alcohol abuse can all seriously negatively affect your health.If you do any of these actions, consider cutting back or quitting to help reduce your risk for chronic diseases.
+There are resources available online — and likely in your local community, as well — to help with this. Talk with your doctor to learn more about accessing resources.</item>
+    </string-array>
+</resources>
